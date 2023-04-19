@@ -1,11 +1,15 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View ,StatusBar} from 'react-native';
+import ViewPage from './src/composants/ViewPage';
+// import { StatusBar } from 'expo-status-bar';
+
+
+
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
+    <View style={{flex:1}}>
+        <StatusBar />
+     <ViewPage/>
     </View>
   );
 }

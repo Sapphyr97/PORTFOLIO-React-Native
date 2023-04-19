@@ -1,0 +1,44 @@
+[  
+  { 
+    "nom Entreprise": "Alth-Rh",        
+    "année": 2023,        
+    "poste": "Concepteur Développpeur d'Application",        
+    "description": "Java/SpringBoot/React-Native/Angular/Test-Unitaire/Figma/"    
+    },    
+    {        
+      "nom Entreprise": "Société Perfect",        
+      "année": 2022,        
+      "poste": "Développeur web et web mobile",        
+      "description": "Symfony/SGBD:MariaDB"    
+      },    
+      {        
+        "nom Entreprise": "Alth-Rh",        
+        "année": 2022,        
+        "poste": "Developpeur Web et Web Mobile",        
+        "description": "PHP/Symfony/Laravell/Bootstrap/Html/CSS/Javascript"    
+        },    
+        {        
+          "nom Entreprise": "Lycée Maurice Utrillo",        
+          "année": 2016,        
+          "poste": "Assistante d'éducation",        
+          "description": "Role pédagogique, administratif, surveillance, sécurité, encadrement des élèves"    
+          },    
+          {        
+            "nom Entreprise": "Yoopala",        
+            "année": 2015,        
+            "poste": "Garde d'enfant",        
+            "description": "Repas, coucher, sortie de crèche "    
+            },    
+            {        
+              "nom Entreprise": "Université Paris 13",        
+              "année": 2015,        
+              "poste": "DUT Carrières Juridiques",        
+              "description": "Droit, Comptabilité"    
+            },    
+            {        
+              "nom Entreprise": "BRED",        
+              "année": 2015,        
+              "poste": "Hotesse d'acceuil",        
+              "description": "Réception et constitution des dossiers des cliens"    
+             
+}]
